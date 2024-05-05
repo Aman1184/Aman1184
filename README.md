@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman Pandey</h1>
 <h3 align="center">A passionate Software Engineer from INDIA</h3>
-<p align="right"><img  align=“right” alt=“coding” width=“400” src=”https://miro.medium.com/v2/resize:fit:828/format:webp/1*gReLR6hZjwyBxHmfLN1AVw.gif"/></p>
+<p align="right"><img  align=“right” alt=“coding” width=“400” src=”[https://miro.medium.com/v2/resize:fit:828/format:webp/1*gReLR6hZjwyBxHmfLN1AVw.gif](https://medium.com/@ricardojeanpierre/ux-concepts-that-ever-developer-should-know-ba5243b6322f)"/></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuklachitransh&label=Profile%20views&color=0e75b6&style=flat" alt="shuklachitransh" /> </p>
 
 - 🔭 I’m currently working on *Predicting Housing pricing using ML*
