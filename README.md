@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aman_pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chitranshshukla" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/aman_pandey](https://www.linkedin.com/in/aman-pandey-6907b7256/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman pandey" height="30" width="40" /></a>
 <a href="https://instagram.com/__chitransh__shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_chitransh_shukla" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/chitransh_9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chitransh_9" height="30" width="40" /></a>
+<a href="[https://www.leetcode.com/chitransh_9](https://leetcode.com/u/Aman_Pandey_/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chitransh_9" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
